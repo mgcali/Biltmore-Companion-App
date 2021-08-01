@@ -1,0 +1,27 @@
+/*--- Colors --- 
+
+ biltmore yellow/mustard: #9C761C;
+ 
+ footer link: #d1b46e;
+
+ */
+
+ body {
+ 	background-color: #ddd;
+ }
+.btn-mustard {
+	background-color: #d1b46e;
+}
+
+
+.bg-mustard {
+	background-color: #9C761C;
+}
+
+.mustard-text {
+	color: #9C761C;
+}
+
+.fullsize {
+	background-size: 100%;
+}
